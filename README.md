@@ -9,7 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Java Developers**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vikashsaini13](https://github.com/Vikashsaini13)
 
 - 📫 How to reach me **vikashsaini13012000@gmail.com**
 
