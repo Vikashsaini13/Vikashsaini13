@@ -1,3 +1,5 @@
+<p><img align="center" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Java developer" /></p>
+ 
 <h1 align="center">Hi 👋, I'm Vikash Saini</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
